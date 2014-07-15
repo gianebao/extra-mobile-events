@@ -1,0 +1,29 @@
+{
+  "name": "extra-mobile-events",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gianebao/extra-mobile",
+  "authors": [
+    "Gian Carlo Val Ebao <gianebao@gmail.com>"
+  ],
+  "description": "Enables new events that can be listened to for mobile platform like, (visibilitychange, focus, connectivitychange).",
+  "main": "extra-mobile-events.js",
+  "keywords": [
+    "jquery",
+    "mobile",
+    "event",
+    "connectivity",
+    "visibility",
+    "focus"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
